@@ -1,2 +1,2 @@
-# rxSpoofer
-Hardware spoofer
+## ⚠️rxSpoofer⚠️
+- USE IT AT YOUR OWN RISK.⚠️
